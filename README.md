@@ -1,6 +1,8 @@
 # Airport Weather API
 api-design-nadimelhelou created by GitHub Classroom
 
+Coursework for EC 500 C1 - Building Software - Prof. Osama Alshaykh
+
 by Nadim El Helou
 
 ## Summary
