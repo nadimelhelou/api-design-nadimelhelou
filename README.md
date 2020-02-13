@@ -10,6 +10,8 @@ This API returns a JSON object of the current weather at a desired airport.
 It can receive as input either the IATA airport code, a three-letter code which is used in passenger reservation, ticketing and baggage-handling systems, or the ICAO airport code which is a four letter code used by ATC systems and for airports that do not have an IATA airport code.
 
 ## Running
+First, add your own weather API key (https://openweathermap.org/api) in the file `key.py`.
+
 In the terminal, run `python api.py` and you should see an output similar to: `Running on http://127.0.0.1:5000/`.
 
 Enter the displayed url into your browser and you will be taken to the API home page. In order to input an airport, add the following path to the url `/weather`, then either the IATA or the ICAO code as such:
